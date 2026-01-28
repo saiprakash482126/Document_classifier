@@ -1,0 +1,333 @@
+2025-12-25 15:34:26,271 - INFO - Found 2 PDF files to process
+2025-12-25 15:34:26,271 - INFO - Processing: emea-cover.pdf
+2025-12-25 15:34:26,367 - INFO -   Reason: No specific match found
+2025-12-25 15:34:26,367 - INFO - Processing: emea-form.pdf
+2025-12-25 15:34:26,371 - INFO -   Reason: No specific match found
+2025-12-25 15:40:09,030 - INFO - Found 2 PDF files to process
+2025-12-25 15:40:09,030 - INFO - Processing: emea-cover.pdf
+2025-12-25 15:40:09,046 - INFO -   -> Organized to: Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\emea-cover.pdf
+2025-12-25 15:40:09,046 - INFO -   Reason: Fallback based on document type: unknown
+2025-12-25 15:40:09,046 - INFO - Processing: emea-form.pdf
+2025-12-25 15:40:09,050 - INFO -   -> Organized to: Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\emea-form.pdf
+2025-12-25 15:40:09,051 - INFO -   Reason: Matched based on filename: emea-form.pdf
+2025-12-25 15:40:09,051 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 15:40:09,051 - INFO - [STATS] Processed: 2/2 files
+2025-12-25 15:40:09,052 - INFO - [LOCATION] Organized into: organized_ctd
+2025-12-25 15:40:09,052 - INFO - [LOG] Log saved to: document_organization.log
+2025-12-25 15:40:09,052 - INFO - [MAPPING] Mapping saved to: organized_mapping.json
+2025-12-25 15:41:51,871 - INFO - Found 2 PDF files to process
+2025-12-25 15:41:51,871 - INFO - Processing: emea-cover.pdf
+2025-12-25 15:41:51,886 - INFO -   -> Organized to: Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\emea-cover.pdf
+2025-12-25 15:41:51,886 - INFO -   Reason: Fallback based on document type: unknown
+2025-12-25 15:41:51,886 - INFO - Processing: emea-form.pdf
+2025-12-25 15:41:51,889 - INFO -   -> Organized to: Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\emea-form.pdf
+2025-12-25 15:41:51,889 - INFO -   Reason: Matched based on filename: emea-form.pdf
+2025-12-25 15:41:51,890 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 15:41:51,890 - INFO - [STATS] Processed: 2/2 files
+2025-12-25 15:41:51,891 - INFO - [LOCATION] Organized into: organized_ctd
+2025-12-25 15:41:51,891 - INFO - [LOG] Log saved to: document_organization.log
+2025-12-25 15:41:51,891 - INFO - [MAPPING] Mapping saved to: organized_mapping.json
+2025-12-25 15:49:39,014 - INFO - Found 2 PDF files to process
+2025-12-25 15:49:39,015 - INFO - Processing: emea-cover.pdf
+2025-12-25 15:49:39,026 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\emea-cover.pdf
+2025-12-25 15:49:39,026 - INFO -   Reason: Filename match: emea-cover.pdf
+2025-12-25 15:49:39,027 - INFO - Processing: emea-form.pdf
+2025-12-25 15:49:39,029 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form.pdf
+2025-12-25 15:49:39,029 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 15:49:39,030 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 15:49:39,030 - INFO - [STATS] Processed: 2/2 files
+2025-12-25 15:49:39,030 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 15:51:07,841 - INFO - Found 2 PDF files to process
+2025-12-25 15:51:07,841 - INFO - Processing: emea-cover.pdf
+2025-12-25 15:51:07,849 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\emea-cover.pdf
+2025-12-25 15:51:07,849 - INFO -   Reason: Filename match: emea-cover.pdf
+2025-12-25 15:51:07,849 - INFO - Processing: emea-form.pdf
+2025-12-25 15:51:07,853 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form.pdf
+2025-12-25 15:51:07,854 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 15:51:07,854 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 15:51:07,855 - INFO - [STATS] Processed: 2/2 files
+2025-12-25 15:51:07,855 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 15:52:05,770 - INFO - Found 3 PDF files to process
+2025-12-25 15:52:05,770 - INFO - Processing: emea-cover.pdf
+2025-12-25 15:52:05,778 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\emea-cover_1.pdf
+2025-12-25 15:52:05,779 - INFO -   Reason: Filename match: emea-cover.pdf
+2025-12-25 15:52:05,779 - INFO - Processing: emea-form.pdf
+2025-12-25 15:52:05,781 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form_1.pdf
+2025-12-25 15:52:05,781 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 15:52:05,782 - INFO - Processing: tabular-listing.pdf
+2025-12-25 15:52:05,803 - INFO -   -> Organized to: Uncategorized\tabular-listing.pdf
+2025-12-25 15:52:05,803 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 15:52:05,804 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 15:52:05,804 - INFO - [STATS] Processed: 3/3 files
+2025-12-25 15:52:05,804 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 16:01:42,500 - INFO - Found 3 PDF files to process
+2025-12-25 16:01:42,608 - INFO - Processing: emea-cover.pdf
+2025-12-25 16:01:42,682 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\emea-cover.pdf
+2025-12-25 16:01:42,684 - INFO -   Reason: Filename match: emea-cover.pdf
+2025-12-25 16:01:42,685 - INFO - Processing: emea-form.pdf
+2025-12-25 16:01:42,691 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form.pdf
+2025-12-25 16:01:42,691 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 16:01:42,691 - INFO - Processing: tabular-listing.pdf
+2025-12-25 16:01:42,712 - INFO -   -> Organized to: Uncategorized\tabular-listing.pdf
+2025-12-25 16:01:42,712 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 16:01:42,712 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 16:01:42,713 - INFO - [STATS] Processed: 3/3 files
+2025-12-25 16:01:42,713 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 16:03:18,595 - INFO - Found 3 PDF files to process
+2025-12-25 16:03:18,595 - INFO - Processing: emea-form.pdf
+2025-12-25 16:03:18,609 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form.pdf
+2025-12-25 16:03:18,609 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 16:03:18,609 - INFO - Processing: tabular-listing.pdf
+2025-12-25 16:03:18,611 - INFO -   -> Organized to: Uncategorized\tabular-listing.pdf
+2025-12-25 16:03:18,612 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 16:03:18,612 - INFO - Processing: tripati.pdf
+2025-12-25 16:03:18,615 - INFO -   -> Organized to: Uncategorized\tripati.pdf
+2025-12-25 16:03:18,615 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 16:03:18,615 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 16:03:18,616 - INFO - [STATS] Processed: 3/3 files
+2025-12-25 16:03:18,616 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 18:02:05,772 - INFO - Found 4 PDF files to process
+2025-12-25 18:02:05,772 - INFO - Processing: CTD_Cover_Letter_Sample.pdf
+2025-12-25 18:02:05,829 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\CTD_Cover_Letter_Sample.pdf
+2025-12-25 18:02:05,829 - INFO -   Reason: Exact CTD section match: 1.0.1
+2025-12-25 18:02:05,830 - INFO - Processing: emea-form.pdf
+2025-12-25 18:02:05,840 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form_1.pdf
+2025-12-25 18:02:05,840 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 18:02:05,841 - INFO - Processing: tabular-listing.pdf
+2025-12-25 18:02:05,845 - INFO -   -> Organized to: Uncategorized\tabular-listing_1.pdf
+2025-12-25 18:02:05,846 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:02:05,846 - INFO - Processing: tripati.pdf
+2025-12-25 18:02:05,852 - INFO -   -> Organized to: Uncategorized\tripati_1.pdf
+2025-12-25 18:02:05,852 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:02:05,854 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 18:02:05,855 - INFO - [STATS] Processed: 4/4 files
+2025-12-25 18:02:05,855 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 18:03:24,788 - INFO - Found 4 PDF files to process
+2025-12-25 18:03:24,788 - INFO - Processing: emea-form.pdf
+2025-12-25 18:03:24,806 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form.pdf
+2025-12-25 18:03:24,806 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 18:03:24,807 - INFO - Processing: tabular-listing.pdf
+2025-12-25 18:03:24,811 - INFO -   -> Organized to: Uncategorized\tabular-listing.pdf
+2025-12-25 18:03:24,811 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:03:24,811 - INFO - Processing: tiru.pdf
+2025-12-25 18:03:24,855 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\tiru.pdf
+2025-12-25 18:03:24,855 - INFO -   Reason: Exact CTD section match: 1.0.1
+2025-12-25 18:03:24,856 - INFO - Processing: tripati.pdf
+2025-12-25 18:03:24,861 - INFO -   -> Organized to: Uncategorized\tripati.pdf
+2025-12-25 18:03:24,862 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:03:24,863 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 18:03:24,864 - INFO - [STATS] Processed: 4/4 files
+2025-12-25 18:03:24,864 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 18:06:38,805 - INFO - Found 5 PDF files to process
+2025-12-25 18:06:38,805 - INFO - Processing: 2.0.pdf
+2025-12-25 18:06:38,875 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\2.0.pdf
+2025-12-25 18:06:38,875 - INFO -   Reason: Exact CTD section match: 1.2.1
+2025-12-25 18:06:38,876 - INFO - Processing: emea-form.pdf
+2025-12-25 18:06:38,894 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form.pdf
+2025-12-25 18:06:38,894 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 18:06:38,895 - INFO - Processing: tabular-listing.pdf
+2025-12-25 18:06:38,898 - INFO -   -> Organized to: Uncategorized\tabular-listing.pdf
+2025-12-25 18:06:38,898 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:06:38,899 - INFO - Processing: tiru.pdf
+2025-12-25 18:06:38,985 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\tiru.pdf
+2025-12-25 18:06:38,985 - INFO -   Reason: Exact CTD section match: 1.0.1
+2025-12-25 18:06:38,986 - INFO - Processing: tripati.pdf
+2025-12-25 18:06:38,989 - INFO -   -> Organized to: Uncategorized\tripati.pdf
+2025-12-25 18:06:38,989 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:06:38,990 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 18:06:38,991 - INFO - [STATS] Processed: 5/5 files
+2025-12-25 18:06:38,991 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 18:15:15,639 - INFO - Found 5 PDF files to process
+2025-12-25 18:15:15,640 - INFO - Processing: 2.0.pdf
+2025-12-25 18:15:15,699 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\2.0.pdf
+2025-12-25 18:15:15,700 - INFO -   Reason: Exact CTD section match: 1.2.1
+2025-12-25 18:15:15,700 - INFO - Processing: emea-form.pdf
+2025-12-25 18:15:15,832 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form.pdf
+2025-12-25 18:15:15,832 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 18:15:15,833 - INFO - Processing: tabular-listing.pdf
+2025-12-25 18:15:15,853 - INFO -   -> Organized to: Uncategorized\tabular-listing.pdf
+2025-12-25 18:15:15,853 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:15:15,854 - INFO - Processing: tiru.pdf
+2025-12-25 18:15:15,903 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\tiru.pdf
+2025-12-25 18:15:15,903 - INFO -   Reason: Exact CTD section match: 1.0.1
+2025-12-25 18:15:15,904 - INFO - Processing: tripati.pdf
+2025-12-25 18:15:15,909 - INFO -   -> Organized to: Uncategorized\tripati.pdf
+2025-12-25 18:15:15,909 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:15:15,910 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 18:15:15,911 - INFO - [STATS] Processed: 5/5 files
+2025-12-25 18:15:15,911 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 18:34:21,370 - INFO - Found 6 PDF files to process
+2025-12-25 18:34:21,370 - INFO - Processing: 00.1.pdf
+2025-12-25 18:34:21,448 - INFO -   -> Organized to: CTD Structure\Module 5 Clinical Study Reports\5.3 Clinical Study Reports and Related Information\5.3.4 Reports of Human Pharmacodynamic Studies\00.1.pdf
+2025-12-25 18:34:21,449 - INFO -   Reason: Exact CTD section match: 5.3.4
+2025-12-25 18:34:21,449 - INFO - Processing: 2.0.pdf
+2025-12-25 18:34:21,497 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\2.0.pdf
+2025-12-25 18:34:21,497 - INFO -   Reason: Exact CTD section match: 1.2.1
+2025-12-25 18:34:21,498 - INFO - Processing: emea-form.pdf
+2025-12-25 18:34:21,513 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\1.2.1 Application Form\emea-form.pdf
+2025-12-25 18:34:21,513 - INFO -   Reason: Filename match: emea-form.pdf
+2025-12-25 18:34:21,514 - INFO - Processing: tabular-listing.pdf
+2025-12-25 18:34:21,520 - INFO -   -> Organized to: Uncategorized\tabular-listing.pdf
+2025-12-25 18:34:21,520 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:34:21,520 - INFO - Processing: tiru.pdf
+2025-12-25 18:34:21,568 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\1.0.1 Cover Letter\tiru.pdf
+2025-12-25 18:34:21,569 - INFO -   Reason: Exact CTD section match: 1.0.1
+2025-12-25 18:34:21,569 - INFO - Processing: tripati.pdf
+2025-12-25 18:34:21,573 - INFO -   -> Organized to: Uncategorized\tripati.pdf
+2025-12-25 18:34:21,574 - INFO -   Reason: No match found - placed in Uncategorized
+2025-12-25 18:34:21,575 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 18:34:21,575 - INFO - [STATS] Processed: 6/6 files
+2025-12-25 18:34:21,576 - INFO - [LOG] Detailed log: document_organization.log
+2025-12-25 18:43:54,060 - INFO - Found 7 PDF files to process
+2025-12-25 18:43:54,060 - INFO - Processing: 0.00000.pdf
+2025-12-25 18:43:54,191 - INFO -   -> Organized to: CTD Structure\Module 5 Clinical Study Reports\5.3 Clinical Study Reports and Related Information\0.00000.pdf
+2025-12-25 18:43:54,191 - INFO -   Reason: Matched CTD section reference: 5.3
+2025-12-25 18:43:54,191 - INFO - Processing: 00.1.pdf
+2025-12-25 18:43:54,241 - INFO -   -> Organized to: CTD Structure\Module 5 Clinical Study Reports\5.3 Clinical Study Reports and Related Information\00.1.pdf
+2025-12-25 18:43:54,241 - INFO -   Reason: Matched CTD section reference: 5.3
+2025-12-25 18:43:54,242 - INFO - Processing: 2.0.pdf
+2025-12-25 18:43:54,275 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\2.0.pdf
+2025-12-25 18:43:54,275 - INFO -   Reason: Matched CTD section reference: 1.2
+2025-12-25 18:43:54,275 - INFO - Processing: emea-form.pdf
+2025-12-25 18:43:54,285 - INFO -   -> Organized to: Module 1 Administrative Information and Prescribing Information\1.2 Administrative Information\emea-form.pdf
+2025-12-25 18:43:54,285 - INFO -   Reason: Matched based on filename: emea-form.pdf
+2025-12-25 18:43:54,285 - INFO - Processing: tabular-listing.pdf
+2025-12-25 18:43:54,288 - INFO -   -> Organized to: Uncategorized\tabular-listing_1.pdf
+2025-12-25 18:43:54,288 - INFO -   Reason: No specific match found
+2025-12-25 18:43:54,289 - INFO - Processing: tiru.pdf
+2025-12-25 18:43:54,320 - INFO -   -> Organized to: CTD Structure\Module 1 Administrative Information and Prescribing Information\1.0 Correspondence\tiru.pdf
+2025-12-25 18:43:54,321 - INFO -   Reason: Matched CTD section reference: 1.0
+2025-12-25 18:43:54,321 - INFO - Processing: tripati.pdf
+2025-12-25 18:43:54,324 - INFO -   -> Organized to: Uncategorized\tripati.pdf
+2025-12-25 18:43:54,324 - INFO -   Reason: No specific match found
+2025-12-25 18:43:54,326 - INFO - 
+[SUCCESS] Processing complete!
+2025-12-25 18:43:54,326 - INFO - [STATS] Processed: 7/7 files
+2025-12-25 18:43:54,326 - INFO - [LOCATION] Organized into: organized_ctd
+2025-12-25 18:43:54,326 - INFO - [LOG] Log saved to: document_organization.log
+2025-12-25 18:43:54,326 - INFO - [MAPPING] Mapping saved to: organized_mapping.json
+2025-12-26 10:25:56,227 - INFO - ✅ Ollama model found: mistral:latest
+2025-12-26 10:26:04,112 - INFO - ✅ Ollama model found: mistral:latest
+2025-12-26 10:26:04,113 - INFO - Ollama classifier initialized with model: mistral:latest
+2025-12-26 10:26:23,072 - INFO - mistral:latest classified as: 4.2.3 Toxicology
+2025-12-26 10:26:34,819 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:26:44,380 - INFO - mistral:latest classified as: 1.2.1 Application Form
+2025-12-26 10:26:56,479 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:27:08,320 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:27:18,018 - INFO - mistral:latest classified as: 1.0.1 Cover Letter
+2025-12-26 10:29:57,965 - INFO - ✅ Ollama model found: mistral:latest
+2025-12-26 10:30:04,797 - INFO - ✅ Ollama model found: mistral:latest
+2025-12-26 10:30:04,798 - INFO - Ollama classifier initialized with model: mistral:latest
+2025-12-26 10:30:15,913 - INFO - mistral:latest classified as: 4.2.3 Toxicology
+2025-12-26 10:30:27,298 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:30:36,630 - INFO - mistral:latest classified as: 1.2.1 Application Form
+2025-12-26 10:30:48,509 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:31:00,369 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:31:09,776 - INFO - mistral:latest classified as: 1.0.1 Cover Letter
+2025-12-26 10:38:24,057 - INFO - ✅ Ollama model found: mistral:latest
+2025-12-26 10:38:28,916 - INFO - ✅ Ollama model found: mistral:latest
+2025-12-26 10:38:28,916 - INFO - Ollama classifier initialized with model: mistral:latest
+2025-12-26 10:38:58,209 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:39:07,570 - INFO - mistral:latest classified as: 1.2.1 Application Form
+2025-12-26 10:39:19,732 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:39:31,706 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:39:43,482 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:39:53,063 - INFO - mistral:latest classified as: 1.0.1 Cover Letter
+2025-12-26 10:45:58,802 - INFO - ✅ Ollama model found: mistral:latest
+2025-12-26 10:46:03,135 - INFO - ✅ Ollama model found: mistral:latest
+2025-12-26 10:46:03,135 - INFO - Ollama classifier initialized with model: mistral:latest
+2025-12-26 10:46:40,840 - INFO - mistral:latest classified as: 1.2.1 Application Form
+2025-12-26 10:46:52,891 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:47:04,574 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:47:14,760 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:47:26,361 - INFO - mistral:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:47:35,784 - INFO - mistral:latest classified as: 1.0.1 Cover Letter
+2025-12-26 10:50:00,503 - INFO - ✅ Ollama model found: llama2:latest
+2025-12-26 10:50:08,375 - INFO - ✅ Ollama model found: llama2:latest
+2025-12-26 10:50:08,376 - INFO - Ollama classifier initialized with model: llama2:latest
+2025-12-26 10:50:37,270 - INFO - llama2:latest classified as: 2.3 Quality Overall Summary
+2025-12-26 10:51:00,235 - INFO - llama2:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:51:12,730 - INFO - llama2:latest classified as: 1.2.1 Application Form
+2025-12-26 10:51:35,644 - INFO - llama2:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:51:58,151 - INFO - llama2:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:52:18,862 - INFO - llama2:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:52:39,236 - INFO - llama2:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:53:07,908 - INFO - llama2:latest classified as: 1.0.1 Cover Letter
+2025-12-26 10:54:34,637 - INFO - ✅ Ollama model found: llama2:latest
+2025-12-26 10:55:16,630 - INFO - ✅ Ollama model found: llama3:latest
+2025-12-26 10:55:20,272 - INFO - ✅ Ollama model found: llama3:latest
+2025-12-26 10:55:20,273 - INFO - Ollama classifier initialized with model: llama3:latest
+2025-12-26 10:55:41,328 - INFO - llama3:latest classified as: 4.2.3 Toxicology
+2025-12-26 10:55:51,215 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:55:59,833 - INFO - llama3:latest classified as: 1.2.1 Application Form
+2025-12-26 10:56:10,640 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:56:21,470 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:56:30,564 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:56:40,483 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:56:49,224 - INFO - llama3:latest classified as: 1.0.1 Cover Letter
+2025-12-26 10:59:01,900 - INFO - ✅ Ollama model found: llama3:latest
+2025-12-26 10:59:05,423 - INFO - ✅ Ollama model found: llama3:latest
+2025-12-26 10:59:05,424 - INFO - Ollama classifier initialized with model: llama3:latest
+2025-12-26 10:59:15,334 - INFO - llama3:latest classified as: 4.2.3 Toxicology
+2025-12-26 10:59:25,224 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:59:33,737 - INFO - llama3:latest classified as: 1.2.1 Application Form
+2025-12-26 10:59:44,715 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 10:59:53,483 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:00:03,835 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:00:12,788 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:00:22,414 - INFO - llama3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:00:31,136 - INFO - llama3:latest classified as: 1.0.1 Cover Letter
+2025-12-26 11:33:19,133 - INFO - ✅ Ollama model found: ministral-3:latest
+2025-12-26 11:33:23,510 - INFO - ✅ Ollama model found: ministral-3:latest
+2025-12-26 11:33:23,511 - INFO - Ollama classifier initialized with model: ministral-3:latest
+2025-12-26 11:34:07,058 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:34:17,689 - INFO - ministral-3:latest classified as: 1.2.1 Application Form
+2025-12-26 11:34:27,679 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:34:41,247 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:34:52,166 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:35:03,129 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:35:14,368 - INFO - ministral-3:latest classified as: 1.0.1 Cover Letter
+2025-12-26 11:40:17,505 - INFO - ✅ Ollama model found: ministral-3:latest
+2025-12-26 11:40:22,793 - INFO - ✅ Ollama model found: ministral-3:latest
+2025-12-26 11:40:22,794 - INFO - Ollama classifier initialized with model: ministral-3:latest
+2025-12-26 11:41:06,461 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:41:16,814 - INFO - ministral-3:latest classified as: 1.2.1 Application Form
+2025-12-26 11:41:26,919 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:41:39,009 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:41:48,990 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:41:59,946 - INFO - ministral-3:latest classified as: 5.3 Clinical Study Reports
+2025-12-26 11:42:10,789 - INFO - ministral-3:latest classified as: 1.0.1 Cover Letter
+2025-12-26 12:15:18,331 - INFO - ✅ Ollama model found: ministral-3:latest
+2025-12-26 12:37:30,489 - WARNING - Cannot set gray non-stroke color because /'P0' is an invalid float value
+2025-12-26 12:37:30,549 - WARNING - Cannot set gray non-stroke color because /'P0' is an invalid float value
+2025-12-26 12:37:30,551 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-12-26 12:41:29,572 - WARNING - Cannot set gray non-stroke color because /'P0' is an invalid float value
+2025-12-26 12:41:29,619 - WARNING - Cannot set gray non-stroke color because /'P0' is an invalid float value
+2025-12-26 12:41:29,620 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-12-26 12:48:51,606 - WARNING - Cannot set gray non-stroke color because /'P0' is an invalid float value
+2025-12-26 12:48:51,653 - WARNING - Cannot set gray non-stroke color because /'P0' is an invalid float value
+2025-12-26 12:48:51,654 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-12-26 12:48:51,687 - WARNING - Cannot set gray non-stroke color because /'P0' is an invalid float value
+2025-12-26 12:48:51,691 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-12-26 12:48:51,698 - WARNING - Cannot set gray non-stroke color because /'P2' is an invalid float value
+2025-12-26 12:48:51,702 - WARNING - Cannot set gray non-stroke color because /'P3' is an invalid float value
+2025-12-26 12:48:51,704 - WARNING - Cannot set gray non-stroke color because /'P4' is an invalid float value
+2025-12-26 12:48:51,706 - WARNING - Cannot set gray non-stroke color because /'P5' is an invalid float value
+2025-12-26 12:48:51,739 - WARNING - Cannot set gray non-stroke color because /'P0' is an invalid float value
+2025-12-26 12:48:51,744 - WARNING - Cannot set gray non-stroke color because /'P1' is an invalid float value
+2025-12-26 12:48:51,746 - WARNING - Cannot set gray non-stroke color because /'P2' is an invalid float value
+2025-12-26 12:48:51,749 - WARNING - Cannot set gray non-stroke color because /'P3' is an invalid float value
+2025-12-26 12:48:51,751 - WARNING - Cannot set gray non-stroke color because /'P4' is an invalid float value
+2025-12-26 12:48:51,753 - WARNING - Cannot set gray non-stroke color because /'P5' is an invalid float value

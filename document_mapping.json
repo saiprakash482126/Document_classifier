@@ -1,0 +1,78 @@
+{
+  "timestamp": "2025-12-30T17:04:48.484923",
+  "source_folder": "documents_to_organize",
+  "ctd_folder": "organized_ctd",
+  "total_files": 6,
+  "mappings": [
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\52-tab-list\\52-tab-list.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 3 Quality\\3.2 Body of Data\\3.2.S Drug Substance\\3.2.S.1 General Information\\3.2.S.1.1 Nomenclature\\52-tab-list_20251230_170448.pdf",
+      "classification": "CTD Section 1.1 (score: 100)",
+      "filename": "52-tab-list.pdf",
+      "source_path": "216344\\216344\\0002\\m5\\52-tab-list\\52-tab-list.pdf",
+      "timestamp": "2025-12-30T17:04:48.300978"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5311-ba-stud-rep\\1692-ba-be\\5311-ba-be-study.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 3 Quality\\3.2 Body of Data\\3.2.S Drug Substance\\3.2.S.1 General Information\\3.2.S.1.1 Nomenclature\\5311-ba-be-study_20251230_170448.pdf",
+      "classification": "CTD Section 1.1 (score: 100)",
+      "filename": "5311-ba-be-study.pdf",
+      "source_path": "216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5311-ba-stud-rep\\1692-ba-be\\5311-ba-be-study.pdf",
+      "timestamp": "2025-12-30T17:04:48.339798"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5312-compar-ba-be-stud-rep\\1692-be\\5312-compar-ba-be-study.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 3 Quality\\3.2 Body of Data\\3.2.S Drug Substance\\3.2.S.1 General Information\\3.2.S.1.1 Nomenclature\\5312-compar-ba-be-study_20251230_170448.pdf",
+      "classification": "CTD Section 1.1 (score: 100)",
+      "filename": "5312-compar-ba-be-study.pdf",
+      "source_path": "216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5312-compar-ba-be-stud-rep\\1692-be\\5312-compar-ba-be-study.pdf",
+      "timestamp": "2025-12-30T17:04:48.376420"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5313-in-vitro-in-vivo-corr-stud-rep\\1692-ds\\5313-invivo-invitro-corr-study.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 3 Quality\\3.2 Body of Data\\3.2.S Drug Substance\\3.2.S.1 General Information\\3.2.S.1.1 Nomenclature\\5313-invivo-invitro-corr-study_20251230_170448.pdf",
+      "classification": "CTD Section 1.1 (score: 100)",
+      "filename": "5313-invivo-invitro-corr-study.pdf",
+      "source_path": "216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5313-in-vitro-in-vivo-corr-stud-rep\\1692-ds\\5313-invivo-invitro-corr-study.pdf",
+      "timestamp": "2025-12-30T17:04:48.415463"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5314-bioanalyt-analyt-met\\1692-bioanalyt\\5314-bioanalyt-analyt-method.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 3 Quality\\3.2 Body of Data\\3.2.S Drug Substance\\3.2.S.1 General Information\\3.2.S.1.1 Nomenclature\\5314-bioanalyt-analyt-method_20251230_170448.pdf",
+      "classification": "CTD Section 1.1 (score: 100)",
+      "filename": "5314-bioanalyt-analyt-method.pdf",
+      "source_path": "216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5314-bioanalyt-analyt-met\\1692-bioanalyt\\5314-bioanalyt-analyt-method.pdf",
+      "timestamp": "2025-12-30T17:04:48.455019"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\54-lit-ref\\54-lit-references.pdf",
+      "destination": "organized_ctd\\Uncategorized\\54-lit-references_20251230_170448.pdf",
+      "classification": "Uncategorized (no matches found)",
+      "filename": "54-lit-references.pdf",
+      "source_path": "216344\\216344\\0002\\m5\\54-lit-ref\\54-lit-references.pdf",
+      "timestamp": "2025-12-30T17:04:48.484923"
+    }
+  ],
+  "folder_mapping_summary": {
+    "1 A": "CTD Structure\\Module 1 Administrative Information and Prescribing Information",
+    "Module 1 Administrative Information and Prescribing Information": "CTD Structure\\Module 1 Administrative Information and Prescribing Information",
+    "1.0": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence",
+    "1.0 Correspondence": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence",
+    "1.0 C": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence",
+    "1.0.1": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.1 Cover Letter",
+    "1.0.1 Cover Letter": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.1 Cover Letter",
+    "1.0.1 C": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.1 Cover Letter",
+    "Cover Letter": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.1 Cover Letter",
+    "1.0.2": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.2 General Note to Reviewer",
+    "1.0.2 General Note to Reviewer": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.2 General Note to Reviewer",
+    "1.0.2 G": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.2 General Note to Reviewer",
+    "1.0.3": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.3 Life Cycle Management Tracking Table",
+    "1.0.3 Life Cycle Management Tracking Table": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.3 Life Cycle Management Tracking Table",
+    "1.0.3 L": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.3 Life Cycle Management Tracking Table",
+    "1.0.4": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.4 Correspondence Issued by Regulatory Authority",
+    "1.0.4 Correspondence Issued by Regulatory Authority": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.4 Correspondence Issued by Regulatory Authority",
+    "1.0.4 C": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.4 Correspondence Issued by Regulatory Authority",
+    "1.0.5": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.5 Response to Information Solicited by Regulatory Authority",
+    "1.0.5 Response to Information Solicited by Regulatory Authority": "CTD Structure\\Module 1 Administrative Information and Prescribing Information\\1.0 Correspondence\\1.0.5 Response to Information Solicited by Regulatory Authority"
+  }
+}

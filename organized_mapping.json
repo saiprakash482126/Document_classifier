@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-01-23T11:47:21.664542",
+  "total_documents": 6,
+  "mappings": [
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\52-tab-list\\52-tab-list.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 5 Clinical Study Reports\\5.2 Tabular Listing of all Clinical Studies\\52-tab-list.pdf",
+      "reason": "Exact CTD section match: 5.2",
+      "filename": "52-tab-list.pdf"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5311-ba-stud-rep\\1692-ba-be\\5311-ba-be-study.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 5 Clinical Study Reports\\5.3 Clinical Study Reports and Related Information\\5.3.1 Reports of Biopharmaceutic Studies\\5.3.1.1 Bioavailability (BA) Study Reports\\5311-ba-be-study.pdf",
+      "reason": "Exact CTD section match: 5.3.1.1",
+      "filename": "5311-ba-be-study.pdf"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5312-compar-ba-be-stud-rep\\1692-be\\5312-compar-ba-be-study.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 5 Clinical Study Reports\\5.3 Clinical Study Reports and Related Information\\5.3.1 Reports of Biopharmaceutic Studies\\5.3.1.2 Comparative BA and BE Study Reports\\5312-compar-ba-be-study.pdf",
+      "reason": "Exact CTD section match: 5.3.1.2",
+      "filename": "5312-compar-ba-be-study.pdf"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5313-in-vitro-in-vivo-corr-stud-rep\\1692-ds\\5313-invivo-invitro-corr-study.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 5 Clinical Study Reports\\5.3 Clinical Study Reports and Related Information\\5.3.1 Reports of Biopharmaceutic Studies\\5.3.1.3 In Vitro - In Vivo Correlation\\5313-invivo-invitro-corr-study.pdf",
+      "reason": "Exact CTD section match: 5.3.1.3",
+      "filename": "5313-invivo-invitro-corr-study.pdf"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\53-clin-stud-rep\\531-rep-biopharm-stud\\5314-bioanalyt-analyt-met\\1692-bioanalyt\\5314-bioanalyt-analyt-method.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 5 Clinical Study Reports\\5.3 Clinical Study Reports and Related Information\\5.3.1 Reports of Biopharmaceutic Studies\\5.3.1.4 Bioanalytical Methods\\5314-bioanalyt-analyt-method.pdf",
+      "reason": "Exact CTD section match: 5.3.1.4",
+      "filename": "5314-bioanalyt-analyt-method.pdf"
+    },
+    {
+      "source": "documents_to_organize\\216344\\216344\\0002\\m5\\54-lit-ref\\54-lit-references.pdf",
+      "destination": "organized_ctd\\CTD Structure\\Module 5 Clinical Study Reports\\5.4 Literature References\\54-lit-references.pdf",
+      "reason": "Exact CTD section match: 5.4",
+      "filename": "54-lit-references.pdf"
+    }
+  ]
+}
