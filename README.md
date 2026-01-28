@@ -34,3 +34,16 @@ A lightweight Python automation tool that converts messy document collections in
 2. Install required packages:
 ```bash
 pip install -r requirements.txt
+
+
+
+
+
+Example
+
+Place documents inside the input folder
+
+Run:
+
+python create_ctd_structure.py
+python organize_documents.py
